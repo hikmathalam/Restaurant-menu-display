@@ -9,9 +9,8 @@ A React app showcasing a restaurant menu with reusable components and list rende
 
 
 ## Links
-- **GitHub Repository:** https://github.com/<your-username>/restaurant-menu
-- **Live Website:** https://<your-deployment-link>
-
+- **GitHub Repository:** https://github.com/hikmathalam/Restaurant-menu-display.git
+- **Live Website:** https://menucard1256.netlify.app/
 
 ## Run Locally
 1. Clone the repository
